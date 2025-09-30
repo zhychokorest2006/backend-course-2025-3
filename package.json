@@ -5,9 +5,12 @@
      "main": "main.js",
      "type": "module",
      "scripts": {
-       "start": "node main.js"
+          "start": "node main.js"
      },
      "keywords": [],
      "author": "zhychokorest2006",
-     "license": "ISC"
-   }
+     "license": "ISC",
+     "dependencies": {
+          "commander": "^14.0.1"
+     }
+}
