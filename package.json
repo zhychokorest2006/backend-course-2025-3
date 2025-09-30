@@ -1,0 +1,13 @@
+{
+     "name": "backend-course-2025-3",
+     "version": "1.0.0",
+     "description": "Lab 3 - Iris data processing",
+     "main": "main.js",
+     "type": "module",
+     "scripts": {
+       "start": "node main.js"
+     },
+     "keywords": [],
+     "author": "zhychokorest2006",
+     "license": "ISC"
+   }
